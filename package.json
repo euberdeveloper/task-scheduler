@@ -29,6 +29,8 @@
     "start": "sirv public --single",
     "start:dev": "sirv public --single --dev",
     "hasher": "node hasher",
-    "deploy": "npm run build && npm run hasher"
+    "deploy": "npm run build && npm run hasher",
+    "serve": "node server",
+    "serve:local": "node server.local"
   }
 }
