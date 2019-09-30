@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en"> 
+
+<head>
+	<meta charset='utf-8'>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="task scheduler for distributing task during a week for each person in a house">
+	<meta name="theme-color" content="#333333"/>
+	<link rel="apple-touch-icon" sizes="192x192" href="/logo-192.png" />
+
+	<title>Task scheduler</title>
+
+	<noscript>
+		Sorry, this webapp does not work with javascript not enabled!!!
+	</noscript>
+
+	<link
+		href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic|Roboto+Mono:400,500|Material+Icons"
+		rel="stylesheet">
+	<link rel="manifest" href="/manifest.json">
+	<link rel='icon' type='image/png' href='/favicon.png'>
+	<link rel='stylesheet' href='/bundle.css'>
+
+	<script>
+		if ('serviceWorker' in navigator) {
+			navigator.serviceWorker
+				.register('/sw.js')
+				.then(() => console.log("Service Worker Registered"));
+		}
+	</script>
+
+	<script defer src='/bundle.js'></script>
+</head>
+
+<body>
+</body>
+
+</html>

@@ -1,0 +1,6 @@
+{
+    "persons": ["MARIO", "JOHN", "MOHAMMED", "CHENG"],
+    "tasks": ["Kitchen", "Bathroom", "Bedroom", "Trash"],
+    "from": "2019-07-29",
+    "howMany": 30
+}
