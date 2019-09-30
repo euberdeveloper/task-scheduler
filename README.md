@@ -9,7 +9,7 @@ This project is my first approach to **Svelte.js**. I caught the chance to make 
 
 ## Customize project:
 
-# Customizing
+### Customizing
 
 Set the **src/content.json**.
 
@@ -29,7 +29,7 @@ This is my example:
     "howMany": 30
 }
 ```
-# Deploying
+### Deploying
 
 To deploy:
 
