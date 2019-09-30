@@ -46,3 +46,5 @@ The project was made with **Svelte.js**, a performant light-weight alternative t
 ## Performance
 
 Even tough the site is extremly simple, with the google audits is possible seeing the performance of Svelte.js. A part from the not used http/v2 due to heroku (not cheap) support, the audit's parameters are almost perfect (at least at the time of this commit).
+
+![Performance](https://github.com/euberdeveloper/task-scheduler/blob/master/doc/performance.png)
