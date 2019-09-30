@@ -1,7 +1,7 @@
 # task-scheduler
 A simple svelte webapp to schedule tasks between people during time
 
-__link to the site:__ [https://unitn-tronchet.herokuapp.com](https://unitn-tronchet.herokuapp.com)
+__link to the site:__ [https://task-scheduler-x.herokuapp.com/](https://task-scheduler-x.herokuapp.com/)
 
 ## Project purpose:
 
